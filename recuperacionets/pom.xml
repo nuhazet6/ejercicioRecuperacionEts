@@ -11,7 +11,7 @@
     
   <packaging>pom</packaging>
     
-  <name>recuperacionets</name>
+  <name>padre recuperacionets</name>
     
   <url>${web}</url>
     
